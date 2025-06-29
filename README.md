@@ -24,7 +24,7 @@ By exploring trends in sales volume across different price segments, this analys
 ## **Key Steps in the Notebook**
 
 - Importing and inspecting the dataset
-- Cleaning and preprocessing data (if needed)
+- Cleaning and preprocessing data 
 - Analyzing sales volume distribution by price range
 - Visualizing trends using bar plots and other charts
 - Drawing insights for promotions and pricing decisions
